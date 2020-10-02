@@ -1,0 +1,9 @@
+// Copyright 2020 Silicon Laboratories, Inc.
+//
+//
+
+Executing: bgbuild.exe (C:\regression\latestBuild\BLE\protocol\bluetooth\bin\bgbuild.exe)
+Standard output
+ALL OK
+
+
